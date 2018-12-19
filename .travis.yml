@@ -1,4 +1,7 @@
 os: osx
 osx_image: xcode 9.4
 language: objective-c
+before_install:
+- cd examples
 script:
+- xcodebuild -project 'App for backup instagram.xcodeproj' -alltargets
