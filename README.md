@@ -19,3 +19,5 @@ $ cd applicationforbackupfrominstagram/examples/'App for backup instagram'
 $ clang -framework Foundation main.m -o 'App for backup instagram'
 $ ./'App for backup instagram'
 ```
+## Лицензия
+Данный проект находится под лицензией [MIT](https://ru.wikipedia.org/wiki/Лицензия_MIT)
