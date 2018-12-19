@@ -1,2 +1,2 @@
-# applicationforbackupfrominstagram
+# Приложение для резервного копирования
 Консольное приложение для резервного копирования с Instagram
