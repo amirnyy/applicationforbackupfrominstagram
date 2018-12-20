@@ -18,6 +18,9 @@
 - NSString 
 - NSArray 
 - NSDictionary
+### Требования 
+- Xcode 9.0+
+- macOS 10.11+ 
 
 ## Сборка проекта и запуск
 ### Первый способ (при наличии XcodeCommandLineTools)
