@@ -5,3 +5,4 @@ before_install:
 - cd examples
 script:
 - xcodebuild -project 'App for backup instagram.xcodeproj' -alltargets
+ 
