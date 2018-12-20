@@ -12,12 +12,12 @@
 ### Компоненты приложения
 
 Компоненты приложения включают в себя: файлы исходного кода и библиотеку Foudation с классами библиотеки:
->NSData
->NSJSONSerialization
->NSURL
->NSString 
->NSArray 
->NSDictionary
+-NSData
+-NSJSONSerialization
+-NSURL
+-NSString 
+-NSArray 
+-NSDictionary
 ## Сборка проекта и запуск
 ### Первый способ (при наличии XcodeCommandLineTools)
 ```ShellSession
